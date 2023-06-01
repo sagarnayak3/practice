@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T18:04:13 IST" name="Surefire suite" finished-at="2023-05-30T18:04:13 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T18:04:13 IST" name="Surefire test" finished-at="2023-05-30T18:04:13 IST" duration-ms="66">
+      <class name="sample1.registerTest">
+        <test-method signature="register()[pri:0, instance:sample1.registerTest@60dcc9fe]" started-at="2023-05-30T18:04:13 IST" name="register" finished-at="2023-05-30T18:04:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- sample1.registerTest -->
+      <class name="sample1.loginTest">
+        <test-method signature="login()[pri:0, instance:sample1.loginTest@2fd6b6c7]" started-at="2023-05-30T18:04:13 IST" name="login" finished-at="2023-05-30T18:04:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- sample1.loginTest -->
+      <class name="sample2.p2Test">
+        <test-method signature="p2test()[pri:0, instance:sample2.p2Test@16e7dcfd]" started-at="2023-05-30T18:04:13 IST" name="p2test" finished-at="2023-05-30T18:04:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p2test -->
+      </class> <!-- sample2.p2Test -->
+      <class name="sample2.p1Test">
+        <test-method signature="p1test()[pri:0, instance:sample2.p1Test@222114ba]" started-at="2023-05-30T18:04:13 IST" name="p1test" finished-at="2023-05-30T18:04:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p1test -->
+      </class> <!-- sample2.p1Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
