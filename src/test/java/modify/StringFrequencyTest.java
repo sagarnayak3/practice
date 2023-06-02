@@ -1,9 +1,11 @@
 package modify;
 
-public class StringFrequency {
+import org.testng.annotations.Test;
 
-		
-		public static void main(String[] args) {
+public class StringFrequencyTest {
+
+		@Test
+		public void StringFrequencyTest() {
 			
 			
 			String a= "hello my hello  hello name is rahul my name rahul";

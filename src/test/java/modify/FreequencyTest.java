@@ -1,8 +1,11 @@
 package modify;
 
+import org.testng.annotations.Test;
+
 public class FreequencyTest {
 	
-	public static void main(String[] args) {
+	@Test
+	public void FreequencyTest() {
 		
 		
 		int[] a= {12,23,43,12,45,65,23,12,33};
