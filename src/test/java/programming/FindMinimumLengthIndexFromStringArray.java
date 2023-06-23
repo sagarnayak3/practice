@@ -7,7 +7,7 @@ public class FindMinimumLengthIndexFromStringArray {
 		
 		String min_length=s[0];
 		for (int i = 0; i < s.length; i++) {
-			if(s[i].length()>min_length.length())
+			if(s[i].length()<min_length.length())
 			{
 				min_length=s[i];
 			}
