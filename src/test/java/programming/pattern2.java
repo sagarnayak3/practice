@@ -52,7 +52,7 @@ public class pattern2 {
 				for (int j = i; j <n; j++)  // -> columns
 				{
 					
-					System.out.print(" ");
+					System.out.print("  ");
 				}
 				for (int j = 1; j <=i; j++) {
 					System.out.print("* ");
